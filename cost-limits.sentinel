@@ -37,7 +37,7 @@ limit_proposed_monthly_cost = func(limit) {
 }
 
 ##### Monthly Limit #####
-limit = decimal.new(16)
+limit = decimal.new(500)
 
 ##### Rules #####
 
